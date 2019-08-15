@@ -1,2 +1,0 @@
-# Robot
-An OpenGL project.
